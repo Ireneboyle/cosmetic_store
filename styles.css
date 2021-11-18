@@ -695,6 +695,9 @@ header.active{
     body{
         overflow-x:hidden;
     }
+    .home .content{
+    overflow-x: hidden;
+}
 
 }
 
@@ -723,6 +726,9 @@ header.active{
      body{
         overflow-x:hidden;
     }
+     .home .content{
+    overflow-x: hidden;
+}
 
 }
 
@@ -740,5 +746,8 @@ header.active{
      body{
         overflow-x:hidden;
     }
+     .home .content{
+    overflow-x: hidden;
+}
 
 }
